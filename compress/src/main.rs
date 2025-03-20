@@ -16,7 +16,7 @@ fn main() {
         return;
     }
 
-    let mut input = BufReader::new(File::open(args().nth(1).unwrap()).unwrap()); // takes imput by reading the source file and its content
+    let mut input = BufReader::new(File::open(args().nth(1).unwrap()).unwrap()); // takes input by reading the source file and its content
 
     let output = File::create(args().nth(2).unwrap()).unwrap(); // creates new target file
 
