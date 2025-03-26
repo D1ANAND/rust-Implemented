@@ -1,0 +1,5 @@
+D:\rust-projects\links-extract\target\debug\deps\libidna_adapter-1de362f51646091d.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna_adapter-1.2.0\src\lib.rs
+
+D:\rust-projects\links-extract\target\debug\deps\idna_adapter-1de362f51646091d.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna_adapter-1.2.0\src\lib.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna_adapter-1.2.0\src\lib.rs:

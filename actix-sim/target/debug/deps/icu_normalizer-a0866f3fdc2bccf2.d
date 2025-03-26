@@ -1,0 +1,11 @@
+D:\rust-projects\actix-sim\target\debug\deps\libicu_normalizer-a0866f3fdc2bccf2.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\error.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\properties.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\provider.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\uts46.rs
+
+D:\rust-projects\actix-sim\target\debug\deps\libicu_normalizer-a0866f3fdc2bccf2.rlib: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\error.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\properties.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\provider.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\uts46.rs
+
+D:\rust-projects\actix-sim\target\debug\deps\icu_normalizer-a0866f3fdc2bccf2.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\error.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\properties.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\provider.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\uts46.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\error.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\properties.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\provider.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\uts46.rs:

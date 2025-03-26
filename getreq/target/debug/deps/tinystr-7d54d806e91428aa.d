@@ -1,0 +1,12 @@
+D:\rust-projects\getreq\target\debug\deps\libtinystr-7d54d806e91428aa.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\macros.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\ascii.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\asciibyte.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\error.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\int_ops.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\unvalidated.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\ule.rs
+
+D:\rust-projects\getreq\target\debug\deps\tinystr-7d54d806e91428aa.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\macros.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\ascii.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\asciibyte.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\error.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\int_ops.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\unvalidated.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\ule.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\macros.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\ascii.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\asciibyte.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\error.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\int_ops.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\unvalidated.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.7.6\src\ule.rs:

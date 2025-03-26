@@ -1,0 +1,11 @@
+D:\rust-projects\api-call\target\debug\deps\libwriteable-4e789472406b6d6e.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\cmp.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\impls.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\ops.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\parts_write_adapter.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\testing.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\try_writeable.rs
+
+D:\rust-projects\api-call\target\debug\deps\writeable-4e789472406b6d6e.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\cmp.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\impls.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\ops.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\parts_write_adapter.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\testing.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\try_writeable.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\cmp.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\impls.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\ops.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\parts_write_adapter.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\testing.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\writeable-0.5.5\src\try_writeable.rs:
